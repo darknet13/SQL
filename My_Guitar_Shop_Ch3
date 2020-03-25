@@ -1,8 +1,0 @@
-/*------------------------------------1-----------------------------------
-Write a SELECT statement that returns four columns from the 
-Products table: product_code, product_name, list_price, and discount_percent. 
-Then, run this statement to make sure it works correctly.
-------------------------------------------------------------------------*/
-use my_guitar_shop;
-select product_code, product_name, list_price, discount_percent
-from products;
